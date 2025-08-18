@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish Patel</h1>
 <h3 align="center">Data Analyst passionate about turning data into actionable insights</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishu1203" alt="kishu1203" /></a> </p>
 
 - 🌱 I’m currently learning **Tableau**
 
